@@ -1,7 +1,7 @@
 var myGamePiece;
 var myObstacles = [];
 var myScore;
-var flappy = "https://www.pngitem.com/pimgs/b/184-1842507_flappy-bird-png.png"
+var flappy = "file:///Users/Vinu/Downloads/toppng.com-blue-bird-600x503.png"
 
 function startGame() {
     myGameArea.start();
